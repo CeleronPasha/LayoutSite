@@ -62,3 +62,54 @@ body {
 .menu li a:hover {
     text-decoration: underline;
 }
+
+.main-content {
+    overflow: hidden;
+
+}
+
+.main-content h1 {
+    font: normal 24px "Time New Roman";
+    margin-bottom: 20px ;
+}
+
+.main-content p {
+    margin-bottom: 20px ;
+}
+
+.main-content-image {
+    margin-bottom: 20px;
+}
+
+.content-left {
+    background: #fff;
+    padding: 20px 20px 3200px 20px;
+    margin-bottom: -3200px;
+    width: 440px;
+    float: left;
+}
+
+.content-right {
+    background: #fff;
+    padding: 20px 10px 3200px 25px;
+    margin-bottom: -3200px;
+    width: 227px;
+    float: right;
+}
+
+.content-right h1 {
+    font-family:normal 24px "Georgia";
+    color:#333333
+}
+
+.content-right p {
+    font-family:normal 14px "Trebuchet";
+    color:#333333
+}
+
+.footer {
+    margin-top: 13px;
+    margin-bottom: 44px;
+    font: normal 12px "Arial";
+    color: #b4b3b6;
+}
